@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(red, green, blue);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+ul{
+    display:flex;
+    list-style: none;
+    width: 600px;
+    justify-content: space-between;
+
+}
+li{
+    color:blue;
+    cursor: pointer;
+}
+button
+{
+    height: 30px;
+    width: 120px;
+    background-color: white;
+    border: none;
+    border: 15px;
+}
+header{
+    background-color: green;
+}
